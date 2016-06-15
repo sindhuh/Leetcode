@@ -1,0 +1,20 @@
+console.log(getRow(3))
+function getRow(rowIndex) {
+    var row = [];
+    var value = 0;
+    for(var i = 0 ; i <= rowIndex ; i++) {
+        value = factorial(rowIndex) / (factorial(i) * factorial(rowIndex - i));
+        row.push(value);
+    }
+    return row;
+}
+function factorial(number) {
+    if (number == 0) {
+        return 1;
+    }
+    var fact = 1;
+    for (var i = 1 ; i <= number ; i ++) {
+        fact = fact * i ;
+    }
+    return fact;
+}

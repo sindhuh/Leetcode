@@ -20,8 +20,8 @@ function getZigZagString(string, nRows) {
         // here in this example a -> array[1], b -> array[2], c -> array[3], d -> array[3], e -> array[4]
         // next then f should go to again in array[3] so loop breaks here.
         for (var j = 0; j < nRows && count < string.length; j++) {
-            if(array[j] == undefined) {
-                array[j] =  string[count];
+            if (array[j] == undefined) {
+                array[j] = string[count];
                 count = count + 1;
             } else {
                 array[j] = array[j] + string[count];

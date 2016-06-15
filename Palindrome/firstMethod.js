@@ -1,36 +1,33 @@
 
 
-var number = -121;
-var reverseNumber = "";
-var remainNumber = "";
-var modValue = 0;
+var number = 1631551361;
 
-if(number < 0) {
-    number = Math.abs(number);
-    //  reverseNumber = "-";
-    reverseInteger(number)
-} else {
-    reverseInteger(number);
+console.log(isPalindrome(number))
+function isPalindrome(number) {
+    if (number < 0) {
+        number = Math.abs(number);
+        return reverseInteger(number);
+    } else {
+        return reverseInteger(number);
+    }
 }
 
 function reverseInteger(number) {
-    if(number == 0) {
-        if(isPalindrome(reverseNumber)) {
-            console.log("The  number is palindrome");
-            return;
-        } else {
-            console.log("The  number is not palindrome");
-            return;
-        }
-    }
-    modValue = number % 10;
-    reverseNumber = "" + reverseNumber + modValue;
-    remainNumber = parseInt(number / 10);
-    reverseInteger(remainNumber);
-}
-
-function isPalindrome(reversedNumber) {
-    console.log(number);
-    console.log(reversedNumber);
-    return parseInt(number )== parseInt(reversedNumber);
+    var stringNum = "" + number;
+    var start = 0;
+    var end = stringNum.length - 1;
+    var mid = (start + end ) / 2;
+   for(var i = 0 ; i < stringNum.length ; i++) {
+       console.log(stringNum[start], stringNum[end], start, end);
+       if(start >= mid) {
+           return true
+       }
+       if(stringNum[start] == stringNum[end]) {
+           start = start + 1;
+           end =  end - 1;
+       } else {
+           return false
+       }
+   }
+    return true;
 }
