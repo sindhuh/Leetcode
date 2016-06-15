@@ -1,0 +1,19 @@
+
+console.log(addDigits(98));
+function addDigits(number) {
+    var sum = number;
+    while (sum >= 10) {
+       sum = getSum(sum);
+    }
+    return sum;
+}
+function getSum(number) {
+    var result = 0;
+    var reminder = 0;
+    while (number != 0) {
+        reminder = number % 10;
+        result = result + reminder;
+        number = Math.floor(number/10);
+    }
+    return result;
+}
