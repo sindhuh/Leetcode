@@ -5,6 +5,9 @@ var array  =  ["aab", "aab" , "aabaab" , "aab", "aabaab"];
 var final = longestCommonPrefix(array);
 console.log("The longest common prefix string : " , final , " with length ", final.length);
 function longestCommonPrefix(array) {
+    if(array.length == 0) {
+        return "";
+    }
     var commonString = array[0];
     for (var i = 0 ; i < array.length - 1 ; i++) {
         commonString = getCommonString(commonString, array[i + 1 ]);

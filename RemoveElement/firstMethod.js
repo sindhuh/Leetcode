@@ -18,12 +18,11 @@ console.log(final + " with length : " + final.length);
 function removeElement(array, value) {
     var i = 0;
     while (i < array.length) {
-        element = array[i];
         if (array[i] == value) {
             array.splice(i, 1);
             i = i - 1;
         }
         i = i + 1;
     }
-    return array;
+    return array.length;
 }

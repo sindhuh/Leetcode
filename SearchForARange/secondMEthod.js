@@ -1,19 +1,21 @@
 //Given a sorted array of integers, find the starting and ending position of a given target value.
 
-var array = [1, 4,4,4,4,4,4 ,8];
-var target = 4;
+var array = [1];
+var target = 0;
 console.log(findRange(array, target));
 function findRange(array, target) {
-    var range = "";
+    var range = [];
     if(array.length == 0 || array.length == undefined) {
-        return "(-1 -1)";
+        return [-1 , -1];
     }
+    console.log(binarySearch(array, target))
     var indexFoundAt = binarySearch(array, target);
     var startIndex = indexFoundAt;
     var endIndex = indexFoundAt;
 
     if(indexFoundAt == -1) {
-        return "(-1 -1)";
+        console.log("ree")
+        return [-1 ,-1];
     } else {
         while(array[startIndex] == array[startIndex - 1]) {
             startIndex = startIndex - 1;
@@ -22,7 +24,8 @@ function findRange(array, target) {
             endIndex = indexFoundAt + 1;
             indexFoundAt = indexFoundAt + 1;
         }
-        range = "(" + startIndex + " " + endIndex + ")";
+        range.push(startIndex);
+        range.push(endIndex);
         return range;
     }
 }

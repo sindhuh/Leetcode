@@ -2,6 +2,9 @@ var string1 = "11111111111";
 var string2 = "11111111111";
 console.log("final result :" , multiplyStrings(string1, string2));
 function multiplyStrings(string1, string2) {
+    if(string1 == "0" || string2 == "0") {
+        return "0"
+    }
     var array1 = string1.split("").reverse();
     var array2 = string2.split("").reverse();
     var result = [];
