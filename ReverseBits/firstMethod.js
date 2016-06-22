@@ -1,5 +1,10 @@
-console.log(reverseBits(43657890))
+console.log(reverseBits(43261596));
 function reverseBits(number) {
     var binaryNumber = number.toString(2);
-    return "0000000" + binaryNumber
+    var zeros = 32 - binaryNumber.length;
+    for(var i = 0 ; i  < zeros ; i++) {
+        binaryNumber = "0" + binaryNumber;
+    }
+    binaryNumber = binaryNumber.split("").reverse().join("");
+    return parseInt(binaryNumber, 2);
 }

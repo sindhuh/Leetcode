@@ -20,7 +20,6 @@ function isUgly(number) {
     if(number <= 0) {
         return false;
     }
-
     while(number % 2 == 0) {
         number = number / 2;
     }
