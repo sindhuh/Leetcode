@@ -5,11 +5,10 @@ function countPrimes(number) {
     var count = 0;
     for(var i = 2 ; i < number ; i++) {
         if(isPrime(i)) {
-           // console.log(i);
             count = count + 1;
         }
     }
-    return count;
+    return count + 1;
 }
 
 function isPrime(number) {
