@@ -6,35 +6,37 @@
 
 var nums1 = [1, 3, 5, 7, 9, 11];
 var nums2 = [2, 4, 6];
-var mergeArray = [];
+function findMedianSortedArrays(nums1, nums2) {
+    var mergeArray = [];
 
-var m = nums1.length;
-var n = nums2.length;
+    var m = nums1.length;
+    var n = nums2.length;
 
-var medianIndex = parseInt((m + n) / 2);
+    var medianIndex = parseInt((m + n) / 2);
 
-var pointer1 = 0;
-var pointer2 = 0;
+    var pointer1 = 0;
+    var pointer2 = 0;
 
-for (var i = 0; i < m + n; i++) {
-    if (nums1[pointer1] <= nums2[pointer2]) {
-        mergeArray[i] = nums1[pointer1];
-        pointer1 = pointer1 + 1;
-    } else if (nums1[pointer1] > nums2[pointer2]) {
-        mergeArray[i] = nums2[pointer2];
-        pointer2 = pointer2 + 1;
-    } else {
-        if (pointer1 < m) {
+    for (var i = 0; i < m + n; i++) {
+        if (nums1[pointer1] <= nums2[pointer2]) {
             mergeArray[i] = nums1[pointer1];
             pointer1 = pointer1 + 1;
+        } else if (nums1[pointer1] > nums2[pointer2]) {
+            mergeArray[i] = nums2[pointer2];
+            pointer2 = pointer2 + 1;
         } else {
-            mergeArray[i] = nums1[pointer2];
-            pointer1 = pointer2 + 1;
+            if (pointer1 < m) {
+                mergeArray[i] = nums1[pointer1];
+                pointer1 = pointer1 + 1;
+            } else {
+                mergeArray[i] = nums1[pointer2];
+                pointer1 = pointer2 + 1;
+            }
         }
-    }
-    if (i == medianIndex) {
-        console.log(mergeArray)
-        console.log("median : " + mergeArray[medianIndex]);
-        break;
-    }
+        if (i == medianIndex) {
+            console.log(mergeArray)
+            console.log("median : " + mergeArray[medianIndex]);
+            return mergeArray[medianIndex];
+        }
 }
+
