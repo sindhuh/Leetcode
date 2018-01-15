@@ -2,10 +2,232 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b9a788d-f292-4308-a151-d72de5b8e693" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FindMinimuminRotatedSortedArray/secondMethod.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Reverse Words in a String/firstMethod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/101. Symmetric Tree/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/101. Symmetric Tree/second.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/102. Binary Tree Level Order Traversal/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/102. Binary Tree Level Order Traversal/second.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/104. Maximum Depth of Binary Tree/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/107. Binary Tree Level Order Traversal II/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/108. Convert Sorted Array to Binary Search Tree/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/110. Balanced Binary Tree/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/111. Minimum Depth of Binary Tree/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/112. Path Sum/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/125. Valid Palindrome/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/141. Linked List Cycle/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/142. Linked List Cycle II/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/144. Binary Tree Preorder Traversal/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/160. Intersection of Two Linked Lists/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/173. Binary Search Tree Iterator/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/200. Number of Islands/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/203. Remove Linked List Elements/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/206. Reverse Linked List/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/226. Invert Binary Tree/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/234. Palindrome Linked List/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/235. Lowest Common Ancestor of a Binary Search Tree/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/236. Lowest Common Ancestor of a Binary Tree/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/236. Lowest Common Ancestor of a Binary Tree/second.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/237. Delete Node in a Linked List/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/257. Binary Tree Paths/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/271. Encode and Decode Strings/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/344. Reverse String/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/345. Reverse Vowels of a String/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/38. Count and Say/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/3Sum Closest/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/3sum/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/3sum/second.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/3sum/third.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/404. Sum of Left Leaves/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/415. Add Strings/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/43. Multiply Strings/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/437. Path Sum III/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/441. Arranging Coins/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/445. Add Two Numbers II/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/461. Hamming Distance/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/477. Total Hamming Distance/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/477. Total Hamming Distance/second.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/53. Maximum Subarray/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/538. Convert BST to Greater Tree/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/538. Convert BST to Greater Tree/second.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/541. Reverse String II/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/557. Reverse Words in a String III/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/572. Subtree of Another Tree/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/61. Rotate List/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/61. Rotate List/second.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/61. Rotate List/third.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/617. Merge Two Binary Trees/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/637. Average of Levels in Binary Tree/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/653. Two Sum IV - Input is a BST/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/669. Trim a Binary Search Tree/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/670. Maximum Swap/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/670. Maximum Swap/second.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/671. Second Minimum Node In a Binary Tree/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/671. Second Minimum Node In a Binary Tree/second.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/680. Valid Palindrome II/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/686. Repeated String Match/686. Repeated String Match.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/687. Longest Univalue Path/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/693. Binary Number with Alternating Bits/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/78. Subsets/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/79. Word Search/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/82. Remove Duplicates from Sorted List II/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/83. Remove Duplicates from Sorted List/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/94. Binary Tree Inorder Traversal/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/ATOI/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Add Binary/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/AddDigits/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/AddTwoNumbers/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/ClimbingStairs/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Duplicate Number/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Find the difference/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/FirstBadVersion/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/GenerateParenthesis/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Group Anagrams/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Group Anagrams/second.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/HappyNumber/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/ImplementStrStr/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/IntToRoman/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/JumpGame/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/JumpGame/second.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Length of last word/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/LongestCommonPrefix/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/LongestPalindromeSubstring/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/LongestSubstringNonRepeatingChars/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Maximum Product of Three Numbers/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/MaximumSubarray/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Merge Sorted Array/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Merge two sorted lists/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/MissingNumber/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/MoveZeros/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Palindrome/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Pascal Traingle II/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/PascalTriangle/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Plus One/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Power of four/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/PowerOfTwo/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Remove Nth node from list/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/RemoveDuplicatesFromSortedArray/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/RemoveElement/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Reverse words in a string II/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/ReverseInteger/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/RomanToInteger/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Rotate Array/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Rotate Array/second.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/SIngle number/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Search for a Range/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/SearchForInsertPosition/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Set Mismatch/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/SortColors/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Sqrt(X)/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Sum of square numbers/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Sum of square numbers/second.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Swap Nodes in Pairs/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Third Maximum number/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/Valid Sudoku/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/ValidParenthesis/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/ValidPerfectSquare/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current leetcode/powerOfThree/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/previous leetcode/CountAndSay/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AddBinary/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/AddBinary/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AddDigits/firstMethod" afterPath="$PROJECT_DIR$/previous leetcode/AddDigits/firstMethod" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ClimbingStairs/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/ClimbingStairs/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CombinationSum/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/CombinationSum/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CombinationSumII/firstMEthod.js" afterPath="$PROJECT_DIR$/previous leetcode/CombinationSumII/firstMEthod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ContainsDuplicate/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/ContainsDuplicate/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ContainsDuplicateII/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/ContainsDuplicateII/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ContainsDuplicateII/secondMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/ContainsDuplicateII/secondMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CountAndSay/firstMethod.js" afterPath="$PROJECT_DIR$/current leetcode/100. Same Tree/first.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CountPrimes/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/CountPrimes/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CountPrimes/secondMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/CountPrimes/secondMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CountingBits/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/CountingBits/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CountingBits/secondMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/CountingBits/secondMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DivideTwoIntegers/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/DivideTwoIntegers/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DivideTwoIntegers/secondMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/DivideTwoIntegers/secondMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DivideTwoIntegers/thirdMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/DivideTwoIntegers/thirdMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/FindMinimuminRotatedSortedArray/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/FindMinimuminRotatedSortedArray/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/FindMinimuminRotatedSortedArray/secondMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/FindMinimuminRotatedSortedArray/secondMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/FirstMissingPositive/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/FirstMissingPositive/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HappyNumber/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/HappyNumber/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ImplementStrStr()/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/ImplementStrStr()/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/IntegerToRoman/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/IntegerToRoman/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/IntersectionofTwoArrays/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/IntersectionofTwoArrays/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Isomorphic Strings/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/Isomorphic Strings/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LargestNumber/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/LargestNumber/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LengthOfLastWord/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/LengthOfLastWord/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LetterCombinationsOfAPhoneNumber/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/LetterCombinationsOfAPhoneNumber/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LinkedList/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/LinkedList/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LongestCommonPrefix/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/LongestCommonPrefix/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LongestCommonPrefix/secondMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/LongestCommonPrefix/secondMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LongestCommonPrefix/thirdMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/LongestCommonPrefix/thirdMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LongestPalindromeSubstring/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/LongestPalindromeSubstring/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LongestPalindromeSubstring/secondMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/LongestPalindromeSubstring/secondMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LongestSubstringWithoutRepeatingCharacters/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/LongestSubstringWithoutRepeatingCharacters/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LongestSubstringWithoutRepeatingCharacters/secondMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/LongestSubstringWithoutRepeatingCharacters/secondMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LongestSubstringWithoutRepeatingCharacters/thirdSolution.js" afterPath="$PROJECT_DIR$/previous leetcode/LongestSubstringWithoutRepeatingCharacters/thirdSolution.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LongestValidParentheses/secondMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/LongestValidParentheses/secondMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LongestValidParentheses/thirdMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/LongestValidParentheses/thirdMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MajorityNumber/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/MajorityNumber/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MaximumProductofWordLengths/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/MaximumProductofWordLengths/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MedianofTwoSortedArrays/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/MedianofTwoSortedArrays/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MedianofTwoSortedArrays/secondMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/MedianofTwoSortedArrays/secondMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MedianofTwoSortedArrays/thirdMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/MedianofTwoSortedArrays/thirdMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Minimum Size Subarray Sum/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/Minimum Size Subarray Sum/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MissingNumber/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/MissingNumber/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MoveZeroes/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/MoveZeroes/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MultiplyStrings/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/MultiplyStrings/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MultiplyStrings/secondMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/MultiplyStrings/secondMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/NumberOfOneBits/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/NumberOfOneBits/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Palindrome/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/Palindrome/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PalindromePairs/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/PalindromePairs/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PalindromePartioning/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/PalindromePartioning/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Pascal'sTriangleII/firstMethod" afterPath="$PROJECT_DIR$/previous leetcode/Pascal'sTriangleII/firstMethod" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PascalTriangle/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/PascalTriangle/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PerfectSquares/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/PerfectSquares/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PlusOne/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/PlusOne/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PowerOfFour/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/PowerOfFour/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PowerOfThree/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/PowerOfThree/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PowerOfTwo/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/PowerOfTwo/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RemoveDuplicatesfromSortedArray/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/RemoveDuplicatesfromSortedArray/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RemoveDuplicatsfromSortedArrayII/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/RemoveDuplicatsfromSortedArrayII/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RemoveElement/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/RemoveElement/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Reverse Words in a String/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/Reverse Words in a String/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ReverseBits/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/ReverseBits/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ReverseInteger/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/ReverseInteger/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ReverseInteger/secondMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/ReverseInteger/secondMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ReverseString/reverseString.js" afterPath="$PROJECT_DIR$/previous leetcode/ReverseString/reverseString.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ReverseVowelsOfAString/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/ReverseVowelsOfAString/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ReverseVowelsOfAString/secondMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/ReverseVowelsOfAString/secondMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RomanToInteger/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/RomanToInteger/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RotateArray/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/RotateArray/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SearchForARange/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/SearchForARange/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SearchForARange/secondMEthod.js" afterPath="$PROJECT_DIR$/previous leetcode/SearchForARange/secondMEthod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SearchForARange/thisrdMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/SearchForARange/thisrdMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SearchInRotatedSortedArray/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/SearchInRotatedSortedArray/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SearchInsertPosition/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/SearchInsertPosition/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sqrt/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/Sqrt/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/StringToInteger/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/StringToInteger/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Subsets/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/Subsets/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SubstringWithConcatenationofAllWords/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/SubstringWithConcatenationofAllWords/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SwapNodesinPairs/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/SwapNodesinPairs/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ThreeSum/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/ThreeSum/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ThreeSum/secondMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/ThreeSum/secondMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TwoSum/FirstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/TwoSum/FirstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TwoSum/SecondMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/TwoSum/SecondMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TwoSum/ThirdMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/TwoSum/ThirdMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/UglyNumber/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/UglyNumber/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/UglyNumberII/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/UglyNumberII/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/UglyNumberII/secondMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/UglyNumberII/secondMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ValidNumber/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/ValidNumber/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ValidPalindrome/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/ValidPalindrome/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ValidParenthesis/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/ValidParenthesis/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ValidParenthesis/secondMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/ValidParenthesis/secondMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ValidParenthesis/thirdMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/ValidParenthesis/thirdMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ValidPerfectSquare/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/ValidPerfectSquare/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Word Pattern/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/Word Pattern/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WordBreak/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/WordBreak/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ZigZagConversion/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/ZigZagConversion/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/containDuplicatesIII/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/containDuplicatesIII/firstMethod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sortColors/firstMethod.js" afterPath="$PROJECT_DIR$/previous leetcode/sortColors/firstMethod.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MedianofTwoSortedArrays/firstMethod.js" afterPath="$PROJECT_DIR$/MedianofTwoSortedArrays/firstMethod.js" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -18,116 +240,30 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="LeetCode" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SecondMethod.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TwoSum/SecondMethod.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="668">
-              <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="secondMethod.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FindMinimuminRotatedSortedArray/secondMethod.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="firstMethod.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SearchInRotatedSortedArray/firstMethod.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="firstMethod.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Reverse Words in a String/firstMethod.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="firstMethod.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Word Pattern/firstMethod.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="firstMethod.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WordBreak/firstMethod.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="32" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="firstMethod.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PowerOfTwo/firstMethod.js">
+      <file leaf-file-name="first.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/current leetcode/111. Minimum Depth of Binary Tree/first.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="firstMethod.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sqrt/firstMethod.js">
+      <file leaf-file-name="686. Repeated String Match.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/current leetcode/686. Repeated String Match/686. Repeated String Match.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#44#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="firstMethod.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MedianofTwoSortedArrays/firstMethod.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+            <state relative-caret-position="270">
+              <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="thirdMethod.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MedianofTwoSortedArrays/thirdMethod.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -137,9 +273,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
+        <option value="FxmlFile" />
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>is</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -152,57 +295,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ReverseVowelsOfAString/firstMethod.js" />
-        <option value="$PROJECT_DIR$/ReverseVowelsOfAString/secondMethod.js" />
-        <option value="$PROJECT_DIR$/CountingBits/firstMethod.js" />
-        <option value="$PROJECT_DIR$/CountingBits/secondMethod.js" />
-        <option value="$PROJECT_DIR$/PalindromePairs/firstMethod.js" />
-        <option value="$PROJECT_DIR$/MultiplyStrings/secondMethod.js" />
-        <option value="$PROJECT_DIR$/RemoveDuplicatesfromSortedArray/firstMethod.js" />
-        <option value="$PROJECT_DIR$/RemoveElement/firstMethod.js" />
-        <option value="$PROJECT_DIR$/SearchForARange/secondMEthod.js" />
-        <option value="$PROJECT_DIR$/MaximumProductofWordLengths/firstMethod.js" />
-        <option value="$PROJECT_DIR$/LongestSubstringWithoutRepeatingCharacters/thirdSolution.js" />
-        <option value="$PROJECT_DIR$/IntegerToRoman/firstMethod.js" />
-        <option value="$PROJECT_DIR$/RomanToInteger/firstMethod.js" />
-        <option value="$PROJECT_DIR$/LongestCommonPrefix/thirdMethod.js" />
-        <option value="$PROJECT_DIR$/ImplementStrStr()/firstMethod.js" />
-        <option value="$PROJECT_DIR$/DivideTwoIntegers/firstMethod.js" />
-        <option value="$PROJECT_DIR$/CountAndSay/firstMethod.js" />
-        <option value="$PROJECT_DIR$/Sqrt/firstMethod.js" />
-        <option value="$PROJECT_DIR$/HappyNumber/firstMethod.js" />
-        <option value="$PROJECT_DIR$/UglyNumber/firstMethod.js" />
-        <option value="$PROJECT_DIR$/sample.js" />
-        <option value="$PROJECT_DIR$/index.jsp" />
-        <option value="$PROJECT_DIR$/home.jsp" />
-        <option value="$PROJECT_DIR$/MissingNumber/firstMethod.js" />
-        <option value="$PROJECT_DIR$/PalindromePartioning/firstMethod.js" />
-        <option value="$PROJECT_DIR$/Subsets/firstMethod.js" />
-        <option value="$PROJECT_DIR$/RemoveDuplicatsfromSortedArrayII/firstMethod.js" />
-        <option value="$PROJECT_DIR$/RotateArray/firstMethod.js" />
-        <option value="$PROJECT_DIR$/ReverseBits/firstMethod.js" />
-        <option value="$PROJECT_DIR$/NumberOfOneBits/firstMethod.js" />
-        <option value="$PROJECT_DIR$/UglyNumberII/firstMethod.js" />
-        <option value="$PROJECT_DIR$/UglyNumberII/secondMethod.js" />
-        <option value="$PROJECT_DIR$/CountPrimes/firstMethod.js" />
-        <option value="$PROJECT_DIR$/CountPrimes/secondMethod.js" />
-        <option value="$PROJECT_DIR$/SwapNodesinPairs/firstMethod.js" />
-        <option value="$PROJECT_DIR$/LinkedList/firstMethod.js" />
-        <option value="$PROJECT_DIR$/WordPattern.js" />
-        <option value="$PROJECT_DIR$/Word Pattern/firstMethod.js" />
-        <option value="$PROJECT_DIR$/Isomorphic Strings/firstMethod.js" />
-        <option value="$PROJECT_DIR$/MoveZeroes/firstMethod.js" />
-        <option value="$PROJECT_DIR$/MedianofTwoSortedArrays/firstMethod.js" />
-        <option value="$PROJECT_DIR$/Minimum Size Subarray Sum/firstMethod.js" />
-        <option value="$PROJECT_DIR$/PerfectSquares/firstMethod.js" />
-        <option value="$PROJECT_DIR$/LargestNumber/firstMethod.js" />
-        <option value="$PROJECT_DIR$/MajorityNumber/firstMethod.js" />
-        <option value="$PROJECT_DIR$/ValidPerfectSquare/firstMethod.js" />
-        <option value="$PROJECT_DIR$/FindMinimuminRotatedSortedArray/firstMethod.js" />
-        <option value="$PROJECT_DIR$/FindMinimuminRotatedSortedArray/secondMethod.js" />
-        <option value="$PROJECT_DIR$/SearchInRotatedSortedArray/firstMethod.js" />
-        <option value="$PROJECT_DIR$/Reverse Words in a String/firstMethod.js" />
-        <option value="$PROJECT_DIR$/WordBreak/firstMethod.js" />
+        <option value="$PROJECT_DIR$/current leetcode/670. Maximum Swap/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/670. Maximum Swap/second.js" />
+        <option value="$PROJECT_DIR$/current leetcode/79. Word Search.js" />
+        <option value="$PROJECT_DIR$/current leetcode/79. Word Search/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/94. Binary Tree Inorder Traversal.js" />
+        <option value="$PROJECT_DIR$/current leetcode/235. Lowest Common Ancestor of a Binary Search Tree/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/404. Sum of Left Leaves/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/ClimbingStairs/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/461. Hamming Distance/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/477. Total Hamming Distance/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/477. Total Hamming Distance/second.js" />
+        <option value="$PROJECT_DIR$/current leetcode/344. Reverse String/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/541. Reverse String II/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/345. Reverse Vowels of a String.js" />
+        <option value="$PROJECT_DIR$/current leetcode/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/345. Reverse Vowels of a String/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/557. Reverse Words in a String III/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/680. Valid Palindrome II/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/200. Number of Islands/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/687. Longest Univalue Path/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/538. Convert BST to Greater Tree/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/112. Path Sum/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/437. Path Sum III/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/102. Binary Tree Level Order Traversal/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/572. Subtree of Another Tree/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/538. Convert BST to Greater Tree/second.js" />
+        <option value="$PROJECT_DIR$/current leetcode/236. Lowest Common Ancestor of a Binary Tree/second.js" />
+        <option value="$PROJECT_DIR$/current leetcode/236. Lowest Common Ancestor of a Binary Tree/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/257. Binary Tree Paths/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/669. Trim a Binary Search Tree/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/237. Delete Node in a Linked List/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/203. Remove Linked List Elements/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/653. Two Sum IV - Input is a BST/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/102. Binary Tree Level Order Traversal/second.js" />
+        <option value="$PROJECT_DIR$/current leetcode/83. Remove Duplicates from Sorted List/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/82. Remove Duplicates from Sorted List II/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/445. Add Two Numbers II/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/160. Intersection of Two Linked Lists/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/61. Rotate List/second.js" />
+        <option value="$PROJECT_DIR$/current leetcode/61. Rotate List/third.js" />
+        <option value="$PROJECT_DIR$/current leetcode/141. Linked List Cycle/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/142. Linked List Cycle II/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/693. Binary Number with Alternating Bits/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/53. Maximum Subarray/first.js" />
+        <option value="$PROJECT_DIR$/previous leetcode/MultiplyStrings/secondMethod.js" />
+        <option value="$PROJECT_DIR$/current leetcode/43. Multiply Strings/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/107. Binary Tree Level Order Traversal II/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/637. Average of Levels in Binary Tree/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/111. Minimum Depth of Binary Tree/first.js" />
+        <option value="$PROJECT_DIR$/current leetcode/686. Repeated String Match.js" />
+        <option value="$PROJECT_DIR$/current leetcode/686. Repeated String Match/686. Repeated String Match.js" />
       </list>
     </option>
   </component>
@@ -220,8 +363,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="152" />
+    <option name="y" value="674" />
     <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="height" value="710" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -245,16 +390,6 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -270,151 +405,265 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WordBreak" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Word Pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SearchInRotatedSortedArray" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Reverse Words in a String" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PowerOfTwo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PerfectSquares" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="current leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="current leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="102. Binary Tree Level Order Traversal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="current leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="107. Binary Tree Level Order Traversal II" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="current leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="111. Minimum Depth of Binary Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="current leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="112. Path Sum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="current leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="141. Linked List Cycle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="current leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="160. Intersection of Two Linked Lists" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="current leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="653. Two Sum IV - Input is a BST" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="current leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="669. Trim a Binary Search Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="current leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="686. Repeated String Match" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="current leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Palindrome" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="previous leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="previous leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="MultiplyStrings" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="FullScreen" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Work/stanza-custom-theme" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/current leetcode/686. Repeated String Match" />
+      <recent name="$PROJECT_DIR$/current leetcode/345. Reverse Vowels of a String" />
+      <recent name="$PROJECT_DIR$/current leetcode" />
+      <recent name="$PROJECT_DIR$/current leetcode/94. Binary Tree Inorder Traversal" />
+      <recent name="$PROJECT_DIR$/current leetcode/79. Word Search" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.firstMethod.js (3)">
-    <configuration default="false" name="firstMethod.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="firstMethod.js" working-dir="$PROJECT_DIR$/PerfectSquares">
-      <method />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.686. Repeated String Match.js">
+    <configuration name="686. Repeated String Match.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="686. Repeated String Match.js" working-dir="$PROJECT_DIR$/current leetcode/686. Repeated String Match" />
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
-    <configuration default="false" name="firstMethod.js (4)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="firstMethod.js" working-dir="$PROJECT_DIR$/ValidPerfectSquare">
-      <method />
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
     </configuration>
-    <configuration default="false" name="secondMethod.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="secondMethod.js" working-dir="$PROJECT_DIR$/FindMinimuminRotatedSortedArray">
-      <method />
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
     </configuration>
-    <configuration default="false" name="firstMethod.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="firstMethod.js" working-dir="$PROJECT_DIR$/Reverse Words in a String">
-      <method />
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
     </configuration>
-    <configuration default="false" name="firstMethod.js (3)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="firstMethod.js" working-dir="$PROJECT_DIR$/WordBreak">
-      <method />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <method />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
@@ -451,55 +700,6 @@
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="">
@@ -619,36 +819,6 @@
       </ExternalSystemSettings>
       <method />
     </configuration>
-    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="passParentEnv" value="true" />
-      <setting name="launchBrowser" value="true" />
-      <setting name="depsClasspath" value="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
     <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -722,46 +892,10 @@
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
       <method />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
     <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
       <method />
     </configuration>
     <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
@@ -792,33 +926,11 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
       <command value="run-script" />
       <scripts />
       <node-interpreter value="project" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory />
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
       <method />
     </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
@@ -827,20 +939,24 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
+    <configuration name="first.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="first.js" working-dir="$PROJECT_DIR$/current leetcode/557. Reverse Words in a String III" />
+    <configuration name="first.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="first.js" working-dir="$PROJECT_DIR$/current leetcode/680. Valid Palindrome II" />
+    <configuration name="first.js (3)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="first.js" working-dir="$PROJECT_DIR$/current leetcode/200. Number of Islands" />
+    <configuration name="first.js (4)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="first.js" working-dir="$PROJECT_DIR$/current leetcode/693. Binary Number with Alternating Bits" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.firstMethod.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.firstMethod.js (4)" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.secondMethod.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.firstMethod.js (2)" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.firstMethod.js (3)" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.first.js (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.first.js (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.first.js (3)" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.first.js (4)" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.686. Repeated String Match.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.firstMethod.js (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.firstMethod.js (2)" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.secondMethod.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.firstMethod.js (4)" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.firstMethod.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.686. Repeated String Match.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.first.js (4)" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.first.js (3)" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.first.js (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.first.js (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -862,11 +978,18 @@
       <workItem from="1465239060376" duration="5190000" />
       <workItem from="1465419410643" duration="80930000" />
       <workItem from="1467055841692" duration="5048000" />
+      <workItem from="1505167825565" duration="3019000" />
+      <workItem from="1506041499296" duration="3535000" />
+      <workItem from="1506099214138" duration="70472000" />
+      <workItem from="1506987869573" duration="62597000" />
+      <workItem from="1507927716404" duration="7187000" />
+      <workItem from="1508194742325" duration="53590000" />
+      <workItem from="1509573963358" duration="1215000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="202406000" />
+    <option name="totallyTimeSpent" value="404021000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -878,34 +1001,67 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="152" y="674" width="1280" height="710" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36618704" sideWeight="0.50340796" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35579938" sideWeight="0.49659202" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35479453" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28513733" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22578125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3951498" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32266667" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1703125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -920,368 +1076,549 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/LongestSubstringNonRepeatingChars/first.js</url>
+          <line>18</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/IntToRoman/first.js</url>
+          <line>23</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/LongestCommonPrefix/first.js</url>
+          <line>5</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/ValidParenthesis/first.js</url>
+          <line>16</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/SearchForInsertPosition/first.js</url>
+          <line>5</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/ValidAnagram/first.js</url>
+          <line>12</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/ValidAnagram/first.js</url>
+          <line>20</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/JumpGame/first.js</url>
+          <line>23</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/Add Binary/first.js</url>
+          <line>7</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/Add Binary/first.js</url>
+          <line>6</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/PascalTriangle/first.js</url>
+          <line>9</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/PascalTriangle/first.js</url>
+          <line>7</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/PascalTriangle/first.js</url>
+          <line>6</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/Sum of square numbers/first.js</url>
+          <line>12</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/HappyNumber/first.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/Find the difference/first.js</url>
+          <line>11</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/Power of four/first.js</url>
+          <line>8</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/Duplicate Number/first.js</url>
+          <line>22</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/Reverse words in a string II/first.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/Third Maximum number/first.js</url>
+          <line>20</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/3sum/third.js</url>
+          <line>8</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/Valid Sudoku/first.js</url>
+          <line>9</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/Valid Sudoku/first.js</url>
+          <line>24</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/671. Second Minimum Node In a Binary Tree/first.js</url>
+          <line>11</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/78. Subsets/first.js</url>
+          <line>10</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/206. Reverse Linked List/first.js</url>
+          <line>3</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/670. Maximum Swap/first.js</url>
+          <line>21</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/670. Maximum Swap/second.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/670. Maximum Swap/second.js</url>
+          <line>20</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/79. Word Search/first.js</url>
+          <line>5</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/ClimbingStairs/first.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/ClimbingStairs/first.js</url>
+          <line>6</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/ClimbingStairs/first.js</url>
+          <line>11</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/461. Hamming Distance/first.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/344. Reverse String/first.js</url>
+          <line>5</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/current leetcode/112. Path Sum/first.js</url>
+          <line>12</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="119" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LongestCommonPrefix/thirdMethod.js">
+    <entry file="file://$PROJECT_DIR$/current leetcode/670. Maximum Swap/second.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImplementStrStr()/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DivideTwoIntegers/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DivideTwoIntegers/secondMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LongestValidParentheses/thirdMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LongestValidParentheses/secondMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CountAndSay/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RomanToInteger/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" selection-start-line="1" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntegerToRoman/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.jsp" />
-    <entry file="file://$PROJECT_DIR$/home.jsp" />
-    <entry file="file://$PROJECT_DIR$/MissingNumber/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LongestSubstringWithoutRepeatingCharacters/thirdSolution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="210">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UglyNumber/firstMethod.js">
+    <entry file="file://$PROJECT_DIR$/current leetcode/404. Sum of Left Leaves/first.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="480">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HappyNumber/firstMethod.js">
+    <entry file="file://$PROJECT_DIR$/current leetcode/477. Total Hamming Distance/second.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="28" column="5" selection-start-line="1" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RemoveDuplicatesfromSortedArray/firstMethod.js">
+    <entry file="file://$PROJECT_DIR$/current leetcode/477. Total Hamming Distance/first.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="296">
+          <caret line="40" column="7938" lean-forward="false" selection-start-line="40" selection-start-column="7938" selection-end-line="40" selection-end-column="7938" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RemoveDuplicatsfromSortedArrayII/firstMethod.js">
+    <entry file="file://$PROJECT_DIR$/current leetcode/461. Hamming Distance/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="22" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/ClimbingStairs/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="44" column="2" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="44" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/previous leetcode/ClimbingStairs/firstMethod.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/HappyNumber/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/Add Binary/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/541. Reverse String II/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="34" column="48" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/345. Reverse Vowels of a String.js" />
+    <entry file="file://$PROJECT_DIR$/current leetcode/344. Reverse String/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/Palindrome/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/680. Valid Palindrome II/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/200. Number of Islands/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/557. Reverse Words in a String III/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/345. Reverse Vowels of a String/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="16" column="15" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/687. Longest Univalue Path/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/437. Path Sum III/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="39" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/572. Subtree of Another Tree/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="28" column="33" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/538. Convert BST to Greater Tree/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/102. Binary Tree Level Order Traversal/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/538. Convert BST to Greater Tree/second.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/235. Lowest Common Ancestor of a Binary Search Tree/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" column="49" lean-forward="true" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/236. Lowest Common Ancestor of a Binary Tree/second.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/236. Lowest Common Ancestor of a Binary Tree/first.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <caret line="24" column="39" lean-forward="false" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Subsets/firstMethod.js">
+    <entry file="file://$PROJECT_DIR$/current leetcode/257. Binary Tree Paths/first.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        <state relative-caret-position="381">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PalindromePartioning/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RotateArray/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReverseBits/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NumberOfOneBits/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MaximumProductofWordLengths/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-288">
-          <caret line="0" column="30" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UglyNumberII/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UglyNumberII/secondMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CountPrimes/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="30" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CountPrimes/secondMethod.js">
+    <entry file="file://$PROJECT_DIR$/current leetcode/669. Trim a Binary Search Tree/first.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwapNodesinPairs/firstMethod.js">
+    <entry file="file://$PROJECT_DIR$/current leetcode/237. Delete Node in a Linked List/first.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/firstMethod.js">
+    <entry file="file://$PROJECT_DIR$/current leetcode/653. Two Sum IV - Input is a BST/first.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        <state relative-caret-position="210">
+          <caret line="14" column="2" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WordPattern.js" />
-    <entry file="file://$PROJECT_DIR$/Isomorphic Strings/firstMethod.js">
+    <entry file="file://$PROJECT_DIR$/current leetcode/61. Rotate List/third.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="28" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="390">
+          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MoveZeroes/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MedianofTwoSortedArrays/secondMethod.js">
+    <entry file="file://$PROJECT_DIR$/current leetcode/61. Rotate List/second.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MedianofTwoSortedArrays/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MedianofTwoSortedArrays/thirdMethod.js">
+    <entry file="file://$PROJECT_DIR$/current leetcode/61. Rotate List/first.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PowerOfTwo/firstMethod.js">
+    <entry file="file://$PROJECT_DIR$/current leetcode/160. Intersection of Two Linked Lists/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/445. Add Two Numbers II/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="28" column="35" lean-forward="false" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/441. Arranging Coins/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/203. Remove Linked List Elements/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/82. Remove Duplicates from Sorted List II/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/83. Remove Duplicates from Sorted List/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/141. Linked List Cycle/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/142. Linked List Cycle II/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/693. Binary Number with Alternating Bits/first.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/53. Maximum Subarray/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/previous leetcode/MultiplyStrings/secondMethod.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/43. Multiply Strings/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/107. Binary Tree Level Order Traversal II/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/102. Binary Tree Level Order Traversal/second.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/637. Average of Levels in Binary Tree/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/current leetcode/112. Path Sum/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="31" column="2" lean-forward="true" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sqrt/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TwoSum/FirstMethod.js">
+    <entry file="file://$PROJECT_DIR$/current leetcode/111. Minimum Depth of Binary Tree/first.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LargestNumber/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Minimum Size Subarray Sum/firstMethod.js">
+    <entry file="file://$PROJECT_DIR$/current leetcode/686. Repeated String Match/686. Repeated String Match.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="641">
-          <caret line="76" column="8" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MajorityNumber/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TwoSum/SecondMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
-          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PerfectSquares/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ValidPerfectSquare/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FindMinimuminRotatedSortedArray/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FindMinimuminRotatedSortedArray/secondMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SearchInRotatedSortedArray/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Reverse Words in a String/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WordBreak/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Word Pattern/firstMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        <state relative-caret-position="270">
+          <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
           <folding />
         </state>
       </provider>
