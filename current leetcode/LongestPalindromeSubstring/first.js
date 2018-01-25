@@ -1,10 +1,6 @@
 function isPalindrome(string) {
     var reverse_string = string.split("").reverse().join("");
-    if(reverse_string === string) {
-        return true;
-    } else {
-        return false;
-    }
+    return reverse_string === string;
 }
 
 function longestPalindromeSubstring(string) {

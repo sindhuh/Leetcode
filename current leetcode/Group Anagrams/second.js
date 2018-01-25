@@ -15,12 +15,14 @@ var groupAnagrams = function (strs) {
             mapping[sortStrings[i]].push(i)
         }
     }
+    console.log(mapping)
     for(var key in mapping) {
         var group = [];
         for(var value = 0 ; value < mapping[key].length; value++) {
             var index = oldArray[mapping[key][value]];
             group.push(index)
         }
+        console.log(group)
         result.push(group)
     }
     return result

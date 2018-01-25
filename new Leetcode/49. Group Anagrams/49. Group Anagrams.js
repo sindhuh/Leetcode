@@ -22,8 +22,8 @@ var groupAnagrams = function (strs) {
     for(var key in mapping) {
         var group = [];
         for(var value = 0 ; value < mapping[key].length; value++) {
-            var index = oldArray[mapping[key][value]];
-            group.push(index)
+            var str = oldArray[mapping[key][value]];
+            group.push(str)
         }
         console.log(group)
         result.push(group)
@@ -32,6 +32,9 @@ var groupAnagrams = function (strs) {
 };
 
 var sortString = function(text) {
+    var newMap = {};
+
+
     return text.split('').sort().join('');
 };
 groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"])

@@ -6,11 +6,7 @@
  * @return {string}
  */
 var countAndSay = function (n) {
-    if (n === 1) {
-        return '1';
-    }
     var str = "1";
-
     for (var i = 2; i <= n; i++) {
         var tmp = "";
         var count = 1;
@@ -28,4 +24,4 @@ var countAndSay = function (n) {
     return str;
 };
 
-console.log(countAndSay(5))
+console.log(countAndSay(1))
