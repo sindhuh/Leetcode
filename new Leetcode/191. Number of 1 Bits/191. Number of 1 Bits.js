@@ -1,3 +1,6 @@
+/**
+ * Created by sindhuhari on 2/2/18.
+ */
 console.log(hammingWeight(1));
 function hammingWeight(number) {
     var count = 0;
