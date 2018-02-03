@@ -6,24 +6,41 @@
  * @return {number[][]}
  */
 
+/**
+ * Created by sindhuhari on 1/24/18.
+ */
+/**
+ * @param {number[]} nums
+ * @return {number[][]}
+ */
 
-var permute = function(nums) {
+
+var permute = function (nums) {
     var result = [];
-    var originalNums = nums.slice()
-    result = permutations(result, nums, originalNums, true);
+    if (!nums || nums.length === 0) {
+        return result;
+    }
+    if (nums.length === 1) {
+        result.push(nums);
+        return result;
+    }
+    result = permutations(result, nums, 0, nums.length  - 1);
     return result;
 };
 
-var permutations = function (result, nums, originalNums, isFirst) {
-    if(nums[0] === originalNums[0] && nums[nums.length - 1] === originalNums[originalNums.length - 1] && !isFirst) {
+
+var permutations = function (result, nums, start, end) {
+    if (start === end) {
+        result.push(nums.slice());
         return result;
+    } else {
+        for (var i = start; i <= end; i++) {
+            nums = swap(nums, start, i);
+            permutations(result, nums, start + 1, end);
+            nums = swap(nums, start, i);
+        }
     }
-    for(var  i = nums.length - 1 ; i > 0; i--) {
-        var newNums = swap(nums, i, i - 1);
-        result.push(newNums);
-    }
-    //console.log(">>>", result);
-    return permutations(result, nums, originalNums, false);
+    return result
 };
 
 var swap = function (nums, a, b) {
@@ -33,5 +50,4 @@ var swap = function (nums, a, b) {
     return nums;
 };
 
-console.log(permute([1,2,3, 4]))
-
+console.log(permute([5, 4, 6, 2]));

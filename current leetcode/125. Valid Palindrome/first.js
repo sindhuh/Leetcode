@@ -18,7 +18,7 @@ var isPalindrome = function (s) {
 
 
 function isAlphabetNumeric(char) {
-    return /[a-zA-Z]/.test(char) || /[0-9]/.test(char);
+    return /[a-z]/.test(char) || /[0-9]/.test(char) || /[A-Z]/.test(char);
 }
 
-console.log(isPalindrome("ab"));
+console.log(isPalindrome("Ab"));
