@@ -5,10 +5,16 @@
  * @param {number[]} nums
  * @return {boolean}
  */
-var canJump = function(nums) {
-    var canJump = false;
-    var size = nums.length;
-    for(var i = 0 ; i < size; i++) {
-w
+var canJump = function (nums) {
+    var soFarGoodIndex = nums.length - 1;
+    for (var i = nums.length - 1; i >= 0; i--) {
+        if(i + nums[i] >= soFarGoodIndex) {
+            soFarGoodIndex = i;
+        }
+    }
+    if(soFarGoodIndex === 0) {
+        return true;
+    } else {
+        return false;
     }
 };

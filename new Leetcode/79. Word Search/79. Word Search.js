@@ -13,7 +13,7 @@ var exist = function (board, word) {
     var n = newBoard[0].length;
     for (var i = 0; i < m; i++) {
         for (var j = 0; j < n; j++) {
-            if(searchWord(newBoard, word, i, j, 0)) {
+            if(isWordFound(newBoard, word, i, j, 0)) {
                 result = true
             }
         }

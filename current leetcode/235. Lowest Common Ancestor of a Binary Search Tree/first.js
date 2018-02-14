@@ -12,8 +12,8 @@
  * @return {TreeNode}
  */
 var lowestCommonAncestor = function(root, p, q) {
-    var node1Array = searchNode(root, p, string1);
-    var node2Array = searchNode(root, q, string2);
+    var node1Array = searchNode(root, p);
+    var node2Array = searchNode(root, q);
     var minLength = Math.min(node1Array.length, node2Array.length);
     var lowestAncestor = null;
     for(var i = 0 ; i < minLength; i++) {

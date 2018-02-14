@@ -45,11 +45,8 @@ var strStr = function (haystack, needle) {
         if (haystack[j] === needle[k]) {
             isMatched = true;
             i = j + 1;
-            //console.log("i", i)
             for (k = 0; k < needle.length; k++) {
-                //console.log(k, j, needle[k], haystack[j])
                 if (haystack[j] === needle[k]) {
-                    //console.log(haystack[j], needle[k] , k, needle.length -1)
                     if (k === needle.length - 1) {
                         return i - 1;
                     }
